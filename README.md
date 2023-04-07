@@ -10,7 +10,7 @@ alm577@pitt.edu
 *  Eva Choudhury
 
 
-*  Gabriela Diaz
+*  Gabriela Diaz Gsd23@pitt.edu
 
 
 Description and links to the datasets used:
