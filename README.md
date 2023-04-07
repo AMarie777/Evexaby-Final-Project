@@ -7,8 +7,7 @@ Team members & Contact:
 * Alexa Mckee
 alm577@pitt.edu
 
-*  Eva Choudhury
-
+*  Eva Choudhury evc29@pitt.edu
 
 *  Gabriela Diaz Gsd23@pitt.edu
 
