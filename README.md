@@ -1,7 +1,7 @@
 # Evexaby-Final-Project
 CMPINF 0010 Final Project
 
-Team name: Evaxby
+Team name: Evexby
 
 Team members & Contact:
 * Alexa Mckee
